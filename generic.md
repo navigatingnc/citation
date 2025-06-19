@@ -1,13 +1,23 @@
 ---
-layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
-nav-menu: true
+layout: page
+title: About Core Banks Crew
+permalink: /generic/
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+## 🐟 Who We Are
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Founded in 2010, **Core Banks Crew** is a nonprofit fishing club dedicated to:
+- Pursuing trophy-class catches
+- Fostering camaraderie among anglers
+- Supporting conservation efforts across our waterways
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+---
+
+## 💬 Our Story
+
+What began as a few passionate anglers sharing time at the remote reaches of the coast has grown into a tight-knit community committed to the sport and to each other. We’ve logged dozens of citations, hosted educational events, and mentored the next generation of fishermen and women.
+
+Join the Waitlist #
+
+We’d love to have you onboard. Tight lines and good company await!
+
