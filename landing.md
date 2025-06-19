@@ -32,8 +32,3 @@ We work to protect local ecosystems and practice responsible catch and release t
 
 Whether you're a seasoned angler or just starting out, our programs are designed to help you grow, connect, and contribute.
 
-
-	</div>
-</section>
-
-</div>
