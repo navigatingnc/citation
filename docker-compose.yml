@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: jekyll serve --watch --force_polling --verbose
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+    environment:
+      - JEKYLL_ENV=production
+      - PAGES_REPO_NWO=${PAGES_REPO_NWO} # Pass through GitHub Pages environment variable
+      - BUNDLE_APP_CONFIG=/usr/local/bundle # Ensure bundler uses a writable directory
+  # Add other services here if needed, for example, a database or other backend services.
+  # web:
+  #   image: nginx:latest
+  #   ports:
+  #     - "80:80"
+  #   volumes:
+  #     - ./_site:/usr/share/nginx/html # Mount the Jekyll build output to Nginx
+  #   depends_on:
+  #     - jekyll
+# Example of a database service:
+#  database:
+#    image: postgres:latest
+#    ports:
+#      - "5432:5432"
+#    volumes:
+#      - db_data:/var/lib/postgresql/data
+#    environment:
+#      - POSTGRES_USER=youruser
+#      - POSTGRES_PASSWORD=yourpassword
+#      - POSTGRES_DB=yourdatabase
+
+#volumes:
+#  db_data: # Persistent storage for the database
+# networks: # Define custom networks if needed
+#  app_network:
+#    driver: bridge
